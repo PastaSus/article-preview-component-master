@@ -348,6 +348,7 @@ medium: 11px
 @media (min-width: 48em) {
   .main {
     max-width: 650px;
+    height: 100vh;
   }
 
   .article-preview-component {
